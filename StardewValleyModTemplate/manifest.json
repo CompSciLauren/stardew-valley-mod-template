@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Template",
+  "Author": "CompSciLauren",
+  "Version": "0.0.1",
+  "Description": "Description.",
+  "UniqueID": "CompSciLauren.Template",
+  "EntryDll": "Template.dll",
+  "MinimumApiVersion": "2.10.0"
+}
